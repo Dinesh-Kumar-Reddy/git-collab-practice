@@ -9,4 +9,8 @@ public class MessagePrinter {
     public void printGoodbyeMessage() {
         System.out.println("Goodbye! Keep practicing Git daily!");
     }
+
+    public void printMotivation() {
+        System.out.println("Keep coding, Dinesh! Practice makes perfect.");
+    }
 }
