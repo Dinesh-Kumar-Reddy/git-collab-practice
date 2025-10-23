@@ -4,7 +4,7 @@ This is a simple Java project for **Git and GitHub practice** by **Dinesh** and 
 
 ## 👥 Team Members
 - Dinesh — Java Developer
-- Veeresh — Tester
+- Veeresh — Java Developer
 
 ## 🧠 Purpose
 To practice:
