@@ -13,4 +13,9 @@ public class MessagePrinter {
     public void printMotivation() {
         System.out.println("Keep coding, Dinesh! Practice makes perfect.");
     }
+
+    public void test() {
+        System.out.println("test dinesh");
+    }
+
 }
