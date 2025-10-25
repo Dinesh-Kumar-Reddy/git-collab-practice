@@ -14,7 +14,7 @@ public class MessagePrinter {
         System.out.println("Keep coding, Dinesh! Practice makes perfect.");
     }
 
-    //test new for all
-
-    //test veeresh
+    public void test() {
+        System.out.println("test vrsh");
+    }
 }
