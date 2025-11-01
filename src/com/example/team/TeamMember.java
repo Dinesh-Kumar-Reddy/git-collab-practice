@@ -13,5 +13,5 @@ public class TeamMember {
         System.out.println("Member Name: " + name + ", Role: " + role);
     }
 
-    //test new
+    //test all
 }
