@@ -15,7 +15,7 @@ public class MessagePrinter {
     }
 
     public void test() {
-        System.out.println("test for all");
+        System.out.println("test");
     }
 
 }
