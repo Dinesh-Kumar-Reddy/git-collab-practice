@@ -15,8 +15,7 @@ public class MessagePrinter {
     }
 
     public void test() {
-        System.out.println("test");
-        System.out.println("test by dinesh");
+        System.out.println("test done by vrsh");
     }
 
 }
