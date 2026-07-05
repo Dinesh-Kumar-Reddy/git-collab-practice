@@ -16,7 +16,7 @@ public class MessagePrinter {
 
     public void test() {
         System.out.println("10th try by vrsh");
-        System.out.println("6th try by dinesh");
+        System.out.println("10th try by dinesh");
     }
 
 }
